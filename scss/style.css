@@ -17,7 +17,7 @@
 
 .box_gral {
   position: relative;
-  height: 20rem;
+  height: 25rem;
   border: solid 1px none;
   transition: translate(-50, 10);
   border-radius: 10px;
